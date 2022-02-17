@@ -1,2 +1,3 @@
 Hello! My name is Zihao and this is where I keep the random code that I mess with for fun :D
 I'm learning R, Python, and MySQL for now...
+I don't have any completed projects yet, but I am working on a hang man game that is nowhere near complete~
